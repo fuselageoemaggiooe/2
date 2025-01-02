@@ -1,0 +1,6 @@
+Library/bin/blosc.dll
+Library/include/blosc-export.h
+Library/include/blosc.h
+Library/lib/blosc.lib
+Library/lib/libblosc.lib
+Library/lib/pkgconfig/blosc.pc
